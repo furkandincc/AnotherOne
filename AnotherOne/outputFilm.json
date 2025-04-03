@@ -1,0 +1,82 @@
+[
+    {
+        "ID": 705,
+        "name": "No Country for Old Men",
+        "description": "Crime Thriller puan:8.2 pop:94",
+        "genre_1": "Crime",
+        "genre_2": "Thriller",
+        "des": "A relentless game of cat and mouse explores morality, greed, and fate in West Texas."
+    },
+    {
+        "ID": 370,
+        "name": "Spider-Man: Into the Spider-Verse",
+        "description": "Animation Action puan:8.4 pop:95",
+        "genre_1": "Animation",
+        "genre_2": "Action",
+        "des": "An animated superhero film featuring Miles Morales, a teenager who becomes Spider-Man and teams up with other versions of the iconic hero from different dimensions to save the multiverse."
+    },
+    {
+        "ID": 712,
+        "name": "The Godfather Part II",
+        "description": "Crime Drama puan:9.0 pop:95",
+        "genre_1": "Crime",
+        "genre_2": "Drama",
+        "des": "An epic saga of power, betrayal, and legacy exploring Vito and Michael Corleone's parallel stories."
+    },
+    {
+        "ID": 1037,
+        "name": "La Vita è Bella (Life Is Beautiful)",
+        "description": "Comedy Drama puan:8.6 pop:95",
+        "genre_1": "Comedy",
+        "genre_2": "Drama",
+        "des": "A heartwarming and tragic story about an Italian Jewish man who uses humor and imagination to protect his son from the horrors of a Nazi concentration camp."
+    },
+    {
+        "ID": 652,
+        "name": "Baahubali: The Beginning",
+        "description": "Action Adventure puan:8.0 pop:95",
+        "genre_1": "Action",
+        "genre_2": "Adventure",
+        "des": "An epic tale of courage, betrayal, and destiny in a mythical kingdom."
+    },
+    {
+        "ID": 246,
+        "name": "Life is Beautiful",
+        "description": "Drama Romance puan:8.6 pop:95",
+        "genre_1": "Drama",
+        "genre_2": "Romance",
+        "des": "A Jewish Italian man uses his imagination and humor to shield his son from the horrors of a concentration camp, turning their grim reality into a game to protect his child's innocence."
+    },
+    {
+        "ID": 490,
+        "name": "The Intouchables",
+        "description": "Drama Comedy puan:8.5 pop:95",
+        "genre_1": "Drama",
+        "genre_2": "Comedy",
+        "des": "The Intouchables, a heartwarming comedy-drama about the friendship between two men from different social classes. An inspiring and uplifting story."
+    },
+    {
+        "ID": 1768,
+        "name": "The Godfather Part III",
+        "description": "Crime Drama puan:8.9 pop:98",
+        "genre_1": "Crime",
+        "genre_2": "Drama",
+        "des": "The final chapter in the epic Godfather saga, focusing on Michael Corleone's attempts to legitimize his family's business while dealing with personal and external conflicts."
+    },
+    {
+        "ID": 63,
+        "name": "Avatar",
+        "description": "Sci-Fi Adventure puan:7.8 pop:95",
+        "genre_1": "Sci-Fi",
+        "genre_2": "Adventure",
+        "des": "A visually groundbreaking journey to the world of Pandora and its majestic inhabitants."
+    },
+    {
+        "ID": 19,
+        "name": "Parasite",
+        "description": "Drama Thriller puan:8.6 pop:93",
+        "genre_1": "Drama",
+        "genre_2": "Thriller",
+        "des": "A dark and compelling exploration of class struggle and human nature."
+    }
+]

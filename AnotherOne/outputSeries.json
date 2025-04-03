@@ -1,0 +1,92 @@
+[
+    {
+        "ID": 172,
+        "name": "Money Heist (La Casa de Papel)",
+        "description": "Action Crime puan:8.3 pop:97",
+        "genre_1": "Action",
+        "genre_2": "Crime",
+        "des": "A group of robbers plan and execute a heist on the Royal Mint of Spain.",
+        "epi": 41
+    },
+    {
+        "ID": 40,
+        "name": "Breaking Bad",
+        "description": "Crime Drama puan:9.5 pop:96",
+        "genre_1": "Crime",
+        "genre_2": "Drama",
+        "des": "A chemistry teacher turns to meth production.",
+        "epi": 62
+    },
+    {
+        "ID": 136,
+        "name": "Breaking Bad",
+        "description": "Crime Thriller puan:9.5 pop:98",
+        "genre_1": "Crime",
+        "genre_2": "Thriller",
+        "des": "A chemistry teacher turned methamphetamine manufacturer battles for survival.",
+        "epi": 62
+    },
+    {
+        "ID": 143,
+        "name": "Stranger Things",
+        "description": "Sci-Fi Horror puan:8.7 pop:95",
+        "genre_1": "Sci-Fi",
+        "genre_2": "Horror",
+        "des": "A group of kids uncover supernatural forces and government conspiracies.",
+        "epi": 34
+    },
+    {
+        "ID": 171,
+        "name": "Better Call Saul",
+        "description": "Crime Drama puan:8.7 pop:94",
+        "genre_1": "Crime",
+        "genre_2": "Drama",
+        "des": "The prequel to Breaking Bad, focusing on the evolution of Saul Goodman.",
+        "epi": 63
+    },
+    {
+        "ID": 227,
+        "name": "Friends",
+        "description": "Romance Comedy puan:8.8 pop:95",
+        "genre_1": "Romance",
+        "genre_2": "Comedy",
+        "des": "Six friends navigate the ups and downs of life and love in New York City over ten seasons.",
+        "epi": 236
+    },
+    {
+        "ID": 175,
+        "name": "The Mandalorian",
+        "description": "Action Adventure puan:8.8 pop:95",
+        "genre_1": "Action",
+        "genre_2": "Adventure",
+        "des": "A lone bounty hunter navigates the outer reaches of the galaxy in the Star Wars universe.",
+        "epi": 24
+    },
+    {
+        "ID": 687,
+        "name": "Leyla ile Mecnun",
+        "description": "Comedy Drama puan:9.2 pop:96",
+        "genre_1": "Comedy",
+        "genre_2": "Drama",
+        "des": "A surreal love story with quirky humor and emotions.",
+        "epi": 104
+    },
+    {
+        "ID": 395,
+        "name": "Band of Brothers",
+        "description": "Historical War puan:9.4 pop:95",
+        "genre_1": "Historical",
+        "genre_2": "War",
+        "des": "A WWII miniseries following the lives of Easy Company, a unit of paratroopers, through major events.",
+        "epi": 10
+    },
+    {
+        "ID": 1,
+        "name": "Breaking Bad",
+        "description": "Crime Drama puan:9.5 pop:98",
+        "genre_1": "Crime",
+        "genre_2": "Drama",
+        "des": "A chemistry teacher turns to making drugs.",
+        "epi": 62
+    }
+]

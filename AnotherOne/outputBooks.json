@@ -1,0 +1,92 @@
+[
+    {
+        "ID": 1122,
+        "name": "Notre-Dame de Paris",
+        "description": "Classic Historical Fiction puan:4.8",
+        "genre_1": "Classic",
+        "genre_2": "Historical Fiction",
+        "des": "The tragic love story of the hunchback Quasimodo and the beautiful Esmeralda set in medieval Paris.",
+        "writer": "Victor Hugo"
+    },
+    {
+        "ID": 1079,
+        "name": "Vingt mille lieues sous les mers",
+        "description": "Adventure Science Fiction puan:4.8",
+        "genre_1": "Adventure",
+        "genre_2": "Science Fiction",
+        "des": "Captain Nemo's underwater adventures aboard the Nautilus as he explores the mysteries of the ocean.",
+        "writer": "Jules Verne"
+    },
+    {
+        "ID": 932,
+        "name": "The Three Musketeers",
+        "description": "Historical Fiction Adventure puan:4.9",
+        "genre_1": "Historical Fiction",
+        "genre_2": "Adventure",
+        "des": "An iconic adventure about friendship, bravery, and loyalty, set in 17th-century France.",
+        "writer": "Alexandre Dumas"
+    },
+    {
+        "ID": 1134,
+        "name": "Notre-Dame de Paris",
+        "description": "Classic Historical Fiction puan:4.8",
+        "genre_1": "Classic",
+        "genre_2": "Historical Fiction",
+        "des": "The tragic tale of Quasimodo, Esmeralda, and the cathedral of Notre-Dame, set in medieval Paris.",
+        "writer": "Victor Hugo"
+    },
+    {
+        "ID": 145,
+        "name": "Brave New World",
+        "description": "Science Fiction Classic puan:4.7",
+        "genre_1": "Science Fiction",
+        "genre_2": "Classic",
+        "des": "A society obsessed with consumerism and control, where individuality is forbidden.",
+        "writer": "Aldous Huxley"
+    },
+    {
+        "ID": 920,
+        "name": "The Count of Monte Cristo",
+        "description": "Adventure Historical Fiction puan:4.9",
+        "genre_1": "Adventure",
+        "genre_2": "Historical Fiction",
+        "des": "A man wrongfully imprisoned seeks revenge in this gripping tale of betrayal, justice, and redemption.",
+        "writer": "Alexandre Dumas"
+    },
+    {
+        "ID": 1104,
+        "name": "Vingt mille lieues sous les mers",
+        "description": "Adventure Science Fiction puan:4.8",
+        "genre_1": "Adventure",
+        "genre_2": "Science Fiction",
+        "des": "An underwater odyssey aboard the Nautilus, led by the enigmatic Captain Nemo.",
+        "writer": "Jules Verne"
+    },
+    {
+        "ID": 520,
+        "name": "Roadside Picnic",
+        "description": "Fantasy Science Fiction puan:4.8",
+        "genre_1": "Fantasy",
+        "genre_2": "Science Fiction",
+        "des": "A profound and unsettling exploration of the aftermath of an alien visitation, focusing on a 'stalker' who navigates a mysterious and dangerous Zone.",
+        "writer": "Arkady and Boris Strugatsky"
+    },
+    {
+        "ID": 1491,
+        "name": "Aşk ve Gurur",
+        "description": "Romance Classic puan:4.9",
+        "genre_1": "Romance",
+        "genre_2": "Classic",
+        "des": "A Turkish retelling of Jane Austen's classic tale of love and prejudice, focusing on the dynamics of love and class in a contemporary Turkish setting.",
+        "writer": "Serdar Akar"
+    },
+    {
+        "ID": 1117,
+        "name": "Les Misérables",
+        "description": "Classic Historical Fiction puan:4.9",
+        "genre_1": "Classic",
+        "genre_2": "Historical Fiction",
+        "des": "An epic tale of love, justice, and redemption in post-revolutionary France.",
+        "writer": "Victor Hugo"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "ID": 1205,
+        "name": "Bu Son Olsun",
+        "description": "Rock Anadolu Rock Turkish puan:9.9 pop:98",
+        "genre_1": "Rock",
+        "genre_2": "Anadolu Rock",
+        "lan": "Turkish"
+    },
+    {
+        "ID": 266,
+        "name": "The Boys Are Back in Town",
+        "description": "Rock Classic Rock English puan:9.9 pop:100",
+        "genre_1": "Rock",
+        "genre_2": "Classic Rock",
+        "lan": "English"
+    },
+    {
+        "ID": 307,
+        "name": "I Love Rock 'n' Roll",
+        "description": "Rock Pop Rock English puan:9.9 pop:100",
+        "genre_1": "Rock",
+        "genre_2": "Pop Rock",
+        "lan": "English"
+    },
+    {
+        "ID": 269,
+        "name": "Start Me Up",
+        "description": "Rock Classic Rock English puan:9.9 pop:100",
+        "genre_1": "Rock",
+        "genre_2": "Classic Rock",
+        "lan": "English"
+    },
+    {
+        "ID": 304,
+        "name": "House of the Rising Sun",
+        "description": "Rock Folk Rock English puan:9.9 pop:100",
+        "genre_1": "Rock",
+        "genre_2": "Folk Rock",
+        "lan": "English"
+    },
+    {
+        "ID": 247,
+        "name": "Ramble On",
+        "description": "Rock Folk Rock English puan:9.9 pop:100",
+        "genre_1": "Rock",
+        "genre_2": "Folk Rock",
+        "lan": "English"
+    },
+    {
+        "ID": 292,
+        "name": "No Rain",
+        "description": "Rock Alternative Rock English puan:9.9 pop:100",
+        "genre_1": "Rock",
+        "genre_2": "Alternative Rock",
+        "lan": "English"
+    },
+    {
+        "ID": 289,
+        "name": "Losing My Religion",
+        "description": "Rock Alternative Rock English puan:9.9 pop:100",
+        "genre_1": "Rock",
+        "genre_2": "Alternative Rock",
+        "lan": "English"
+    },
+    {
+        "ID": 246,
+        "name": "Whole Lotta Love",
+        "description": "Rock Hard Rock English puan:9.9 pop:100",
+        "genre_1": "Rock",
+        "genre_2": "Hard Rock",
+        "lan": "English"
+    },
+    {
+        "ID": 267,
+        "name": "Don't Fear the Reaper",
+        "description": "Rock Hard Rock English puan:9.9 pop:100",
+        "genre_1": "Rock",
+        "genre_2": "Hard Rock",
+        "lan": "English"
+    }
+]
